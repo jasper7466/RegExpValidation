@@ -17,7 +17,7 @@
 
 ### Актуальная версия
 
- - Версия: [v0.0.5](https://github.com/jasper7466/RegExpValidation/tree/v0.0.5)
+ - Версия: [v0.0.5](https://github.com/jasper7466/RegExpValidation/tree/v.0.0.5)
  - Ссылка на web-станицу: https://jasper7466.github.io/RegExpValidation/
  
 ### Технологии
